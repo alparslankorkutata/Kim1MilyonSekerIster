@@ -1,0 +1,35 @@
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Kim1MilyonSekerIster.csprojAssemblyReference.cache
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmAnaEkran.resources
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmTelefon.resources
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Kim1MilyonSekerIster.Hakkında.resources
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmSeyirci.resources
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmSoruEkranı.resources
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Kim1MilyonSekerIster.csproj.GenerateResource.cache
+C:\Users\ferha\Desktop\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.csprojAssemblyReference.cache
+C:\Users\ferha\Desktop\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmAnaEkran.resources
+C:\Users\ferha\Desktop\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmTelefon.resources
+C:\Users\ferha\Desktop\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.Hakkında.resources
+C:\Users\ferha\Desktop\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmSeyirci.resources
+C:\Users\ferha\Desktop\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmSoruEkranı.resources
+C:\Users\ferha\Desktop\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.csproj.GenerateResource.cache
+C:\Users\ferha\Desktop\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.csprojAssemblyReference.cache
+C:\Users\ferha\Desktop\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmAnaEkran.resources
+C:\Users\ferha\Desktop\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmTelefon.resources
+C:\Users\ferha\Desktop\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.Hakkında.resources
+C:\Users\ferha\Desktop\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmSeyirci.resources
+C:\Users\ferha\Desktop\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmSoruEkranı.resources
+C:\Users\ferha\Desktop\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.csproj.GenerateResource.cache
+C:\Users\ferha\Desktop\Staj\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.csprojAssemblyReference.cache
+C:\Users\ferha\Desktop\Staj\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmAnaEkran.resources
+C:\Users\ferha\Desktop\Staj\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmTelefon.resources
+C:\Users\ferha\Desktop\Staj\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.Hakkında.resources
+C:\Users\ferha\Desktop\Staj\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmSeyirci.resources
+C:\Users\ferha\Desktop\Staj\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmSoruEkranı.resources
+C:\Users\ferha\Desktop\Staj\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.csproj.GenerateResource.cache
+D:\Dersler\Staj\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.csprojAssemblyReference.cache
+D:\Dersler\Staj\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmAnaEkran.resources
+D:\Dersler\Staj\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmTelefon.resources
+D:\Dersler\Staj\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.Hakkında.resources
+D:\Dersler\Staj\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmSeyirci.resources
+D:\Dersler\Staj\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.frmSoruEkranı.resources
+D:\Dersler\Staj\Kim 1 Milyon Şeker İster\Kim 1 Milyon Şeker İster\Milyoner\obj\Debug\Kim1MilyonSekerIster.csproj.GenerateResource.cache

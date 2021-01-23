@@ -1,0 +1,54 @@
+C:\Users\Uğur Gür\Desktop\Milyoner\Milyoner\bin\Debug\Milyoner.exe.config
+C:\Users\Uğur Gür\Desktop\Milyoner\Milyoner\obj\Debug\Milyoner.frmAnaEkran.resources
+C:\Users\Uğur Gür\Desktop\Milyoner\Milyoner\obj\Debug\Milyoner.Hakkında.resources
+C:\Users\Uğur Gür\Desktop\Milyoner\Milyoner\obj\Debug\Milyoner.Properties.Resources.resources
+C:\Users\Uğur Gür\Desktop\Milyoner\Milyoner\obj\Debug\Milyoner.csproj.GenerateResource.Cache
+C:\Users\Uğur Gür\Desktop\Milyoner\Milyoner\bin\Debug\Milyoner.exe
+C:\Users\Uğur Gür\Desktop\Milyoner\Milyoner\bin\Debug\Milyoner.pdb
+C:\Users\Uğur Gür\Desktop\Milyoner\Milyoner\obj\Debug\Milyoner.frmSoruEkranı.resources
+C:\Users\Uğur Gür\Desktop\Milyoner\Milyoner\obj\Debug\Milyoner.exe
+C:\Users\Uğur Gür\Desktop\Milyoner\Milyoner\obj\Debug\Milyoner.pdb
+C:\Users\Uğur Gür\Desktop\Milyoner\Milyoner\obj\Debug\Milyoner.csprojResolveAssemblyReference.cache
+H:\Milyoner\Milyoner\bin\Debug\Milyoner.exe.config
+H:\Milyoner\Milyoner\obj\Debug\Milyoner.exe
+H:\Milyoner\Milyoner\obj\Debug\Milyoner.pdb
+H:\Milyoner\Milyoner\obj\Debug\Milyoner.csprojResolveAssemblyReference.cache
+H:\Milyoner\Milyoner\obj\Debug\Milyoner.frmAnaEkran.resources
+H:\Milyoner\Milyoner\obj\Debug\Milyoner.Hakkında.resources
+H:\Milyoner\Milyoner\obj\Debug\Milyoner.Properties.Resources.resources
+H:\Milyoner\Milyoner\obj\Debug\Milyoner.frmSoruEkranı.resources
+H:\Milyoner\Milyoner\obj\Debug\Milyoner.csproj.GenerateResource.Cache
+H:\Milyoner\Milyoner\bin\Debug\Milyoner.exe
+H:\Milyoner\Milyoner\bin\Debug\Milyoner.pdb
+H:\Milyoner\Milyoner\obj\Debug\Milyoner.frmTelefon.resources
+H:\Milyoner\Milyoner\obj\Debug\Milyoner.frmSeyirci.resources
+E:\Milyoner\Milyoner\bin\Debug\Milyoner.exe.config
+E:\Milyoner\Milyoner\obj\Debug\Milyoner.exe
+E:\Milyoner\Milyoner\obj\Debug\Milyoner.pdb
+E:\Milyoner\Milyoner\bin\Debug\Milyoner.exe
+E:\Milyoner\Milyoner\bin\Debug\Milyoner.pdb
+E:\Milyoner\Milyoner\obj\Debug\Milyoner.csprojResolveAssemblyReference.cache
+E:\Milyoner\Milyoner\obj\Debug\Milyoner.frmAnaEkran.resources
+E:\Milyoner\Milyoner\obj\Debug\Milyoner.frmTelefon.resources
+E:\Milyoner\Milyoner\obj\Debug\Milyoner.Hakkında.resources
+E:\Milyoner\Milyoner\obj\Debug\Milyoner.Properties.Resources.resources
+E:\Milyoner\Milyoner\obj\Debug\Milyoner.frmSeyirci.resources
+E:\Milyoner\Milyoner\obj\Debug\Milyoner.frmSoruEkranı.resources
+E:\Milyoner\Milyoner\obj\Debug\Milyoner.csproj.GenerateResource.Cache
+E:\C#.NET\Örnekler\Milyoner\Milyoner\bin\Debug\Milyoner.exe.config
+E:\C#.NET\Örnekler\Milyoner\Milyoner\obj\Debug\Milyoner.exe
+E:\C#.NET\Örnekler\Milyoner\Milyoner\obj\Debug\Milyoner.pdb
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\bin\Debug\Milyoner.exe.config
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\bin\Debug\Milyoner.exe
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\bin\Debug\Milyoner.pdb
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Milyoner.csprojAssemblyReference.cache
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Milyoner.frmAnaEkran.resources
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Milyoner.frmTelefon.resources
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Milyoner.Hakkında.resources
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Milyoner.Properties.Resources.resources
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Milyoner.frmSeyirci.resources
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Milyoner.frmSoruEkranı.resources
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Milyoner.csproj.GenerateResource.cache
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Milyoner.csproj.CoreCompileInputs.cache
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Milyoner.exe
+C:\Users\ferha\Desktop\Milyoner-master\Milyoner\obj\Debug\Milyoner.pdb
